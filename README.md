@@ -1,1 +1,1 @@
-# aI-agents
+# ai-agents
