@@ -1,0 +1,6 @@
+.venv
+venv
+.__pycache__
+__pycache__
+.chrome_langchain_db
+chrome_langchain_db
