@@ -1,5 +1,0 @@
-Nome,Idade,Ticket
-Ana,32,1500
-João,45,2300
-Maria,29,2700
-Carlos,40,1200
