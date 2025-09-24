@@ -1,0 +1,2 @@
+https://github.com/mdipietro09/GenerativeAI/blob/main/Agents_ZeroToHero/notebook_I_basics.ipynb
+
