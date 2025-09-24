@@ -1,0 +1,5 @@
+pip install ollama==0.4.7
+
+pip install duckduckgo-search==6.3.5   
+
+pip install langchain-community==0.3.17
